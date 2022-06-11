@@ -1,0 +1,753 @@
+   50  python --version
+   51  code .
+   52  code  .
+   53  Python hello_python.py
+   54  python hello_python.py
+   55  conda deactivate
+   56  cd desktop/
+   57  ls
+   58  cd ~
+   59  cd Fintech_Workspace
+   60  la
+   61  ls
+   62  cd Fintech-Workspace
+   63  ls
+   64  cd Python_Project/
+   65  ls
+   66  conda activate dev
+   67  code .
+   68  python hello_python.py
+   69  conda deactivate
+   70  conda activate dev
+   71  code .
+   72  python hello_python.py
+   73  conda deactivate
+   74  conda activate dev
+   75  company_abc_stock_price = 14.35
+   76  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+   77  ls
+   78  cd Fintech-Workspace
+   79  ls
+   80  cd Python_Project
+   81  ls
+   82  python <hello_pyhton.py>
+   83  python hello_pyhton.py
+   84  cd ~
+   85  ls
+   86  cd Fintech-Workspace
+   87  pwd
+   88  ls
+   89  mkdir M1L3.py
+   90  ls
+   91  cd M1L3.py
+   92  code .
+   93  pwd
+   94  01_Ins_Variables
+   95  ls
+   96  Downloads
+   97  cd Downloads
+   98  ls
+   99  Class_1_Activities
+  100  cd Class_1_Activities
+  101  ls
+  102  cd 01_Ins_Variables
+  103  la
+  104  ls
+  105  cd Solved
+  106  la
+  107  ls
+  108  cd variables.py
+  109  Python variables.py
+  110  python M1L3.py
+  111  pwd
+  112  print(Alexis_Age)
+  113  ls
+  114  print(Alexis_Age)
+  115  pwd
+  116  print(Alexis_Age)
+  117  python CreateVariablePractice.py
+  118  print(Alexis_Age)
+  119  conda list
+  120  anaconda-nagivator
+  121  anaconda-navigator
+  122  cd Desktop
+  123  mkdir test
+  124  touch sample.txt
+  125  cd test
+  126  ls
+  127  cd ..
+  128  mv sample.txt test
+  129  cd test
+  130  ls
+  131  mv sample.txt example.txt
+  132  conda activate dev
+  133  jupyter lab
+  134  python3 -m pip install --user virtualenv
+  135  python3 -m venv env
+  136  source env/bin/activate
+  137  which python
+  138  deactivate
+  139  python3 -m pip install requests
+  140  python3 -m pip install requests
+  141  python3 -m pip install requests==2.18.4
+  142  python3 -m pip install requests>=2.0.0,<3.0.0
+  143  python3 -m pip install --pre requests
+  144  python3 -m pip install requests[security]
+  145  cd google-auth\npython3 -m pip install .
+  146  cd google-auth\npython3 -m pip install .
+  147  python3 -m pip install --editable .
+  148  git+https://github.com/GoogleCloudPlatform/google-auth-library-python.git#egg=google-auth
+  149   conda activate dev
+  150  jupyter lab
+  151  ls –al ~/.ssh
+  152  ssh-keygem
+  153  ssh-keygen
+  154  CAT /Users/lex/.ssh/id_rsa.pub
+  155  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  156  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  157  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/lex/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+  158  brew install python
+  159  python
+  160  pwd
+  161  ls
+  162  cd Fintech_Workspace
+  163  cd Fintech-Workspace
+  164  ls
+  165  python M1L3.py
+  166  cd M1L3.py
+  167  python M1L3.py
+  168  cd~
+  169  cd ~
+  170  conda activate dev
+  171  pwd
+  172  ls
+  173  cd Fintech-Workspace
+  174  ls
+  175  cd M1L3.py
+  176  python M1L3.py
+  177  pwd
+  178  ls
+  179  print(Alexis_Age)
+  180  ls
+  181  python M1L3.py
+  182  print(current_price, adjusted_price)
+  183  $ python M1L3.py
+  184  /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  185  conda deactivate
+  186  conda activate dev
+  187  cd
+  188  la
+  189  ls
+  190  cd Fintech-Workspace
+  191  ls
+  192  python M1L3.py
+  193  cd M1L3.py
+  194  ls
+  195  python M1L3.py
+  196  print(current_price, adjusted_price)
+  197  /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  198  pwd
+  199  print(current_price, adjusted_price)
+  200  /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  201  conda activare dev
+  202  y
+  203  conda acivate dev
+  204  pwd
+  205  ls
+  206  cd Fintech-Workspace
+  207  ls
+  208  mkdir Activity-1
+  209  ls
+  210  touch hello.md
+  211  mv hello.md coding.md
+  212  mkdir Activity-1/terminal
+  213  ls
+  214  cd Activity-1
+  215  ls
+  216  cd ..
+  217  ls
+  218  mv coding.md Activity-1/terminal
+  219  cd ..
+  220  ls
+  221  cd Fintech-Workspace/Activity-1
+  222  rm -r Activity-1/
+  223  ls
+  224  rm terminal 
+  225  cd .. 
+  226  remove terminal
+  227  rm -r terminal 
+  228  rm -r Activity-1
+  229  la
+  230  ls
+  231  /usr/local/bin/python3 "/Users/lex/Downloads/01_Hello_Variable_World 2/Solved/hello_variable_world.py"
+  232  /usr/local/bin/python3 "/Users/lex/Downloads/01_Hello_Variable_World 2/Unsolved/hello_variable_world.py"
+  233  /usr/local/bin/python3 "/Users/lex/Downloads/01_Hello_Variable_World 2/Unsolved/hello_variable_world.py"
+  234  /usr/local/bin/python3 "/Users/lex/Downloads/01_Hello_Variable_World 2/Unsolved/hello_variable_world.py"
+  235  /usr/local/bin/python3 "/Users/lex/Downloads/01_Hello_Variable_World 2/Unsolved/hello_variable_world.py"
+  236  ls
+  237  cd ~
+  238  ls
+  239  cd Fintech-Workspace
+  240  ls
+  241  cd M1L3.py
+  242  ls
+  243  ls
+  244  cd M1L3.py
+  245  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  246  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  247  conda activate dev
+  248  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  249  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  250  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  251  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  252  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  253  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  254  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  255  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  256  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  257  python M1L3.py
+  258  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  259  python M1L3.py
+  260  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  261  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  262  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  263  conda activate dev
+  264  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  265  python M1L3.py
+  266  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  267  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  268  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  269  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  270  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  271  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  272  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  273  conda activate dev
+  274  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  275  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  276  conda activate dev
+  277  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  278  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  279  pwd
+  280  ls
+  281  cd 01_Stu_Variables
+  282  ls
+  283  cd Solved
+  284  ls
+  285  python variables.py
+  286  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  287  pwd
+  288  ls
+  289  python variables.py
+  290  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  291  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  292  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  293  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/01_Stu_Variables/Solved/variables.py"
+  294  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  295  /usr/local/bin/python3 "/Users/lex/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  296  /usr/local/bin/python3 /Users/lex/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+  297  ls
+  298  cd Fintech-Workspace
+  299  ls
+  300  cd Python_Project
+  301  ls
+  302  python hello_pyhton.py
+  303  cd ..
+  304  ls
+  305  cd M1L3.py
+  306  ls
+  307  python M1L3.py
+  308  print(current_price, adjusted_price)
+  309  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  310  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  311  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  312  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  313  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  314  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  315  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  316  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  317  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  318  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  319  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  320  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  321  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  322  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  323  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  324  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  325  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  326  conda activate dev
+  327  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  328  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  329  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  330  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  331  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  332  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  333  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  334  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/01_Conditional_Statement/Unsolved/conditional_statement.py
+  335  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/01_Conditional_Statement/Unsolved/conditional_statement.py
+  336  /usr/local/bin/python3 /Users/lex/Downloads/03_The_401k_Shuffle/Unsolved/01_Conditional_Statement/Unsolved/conditional_statement.py
+  337  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  338  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  339  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  340  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  341  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  342  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  343  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  344  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  345  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  346  conda activate dev
+  347  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  348  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  349  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  350  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  351  python /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  352  pwd
+  353  ls
+  354  python unsolved
+  355  ls
+  356  cd Unsolved
+  357  ls
+  358  cd split_second_homebuying.py
+  359  python split_second_homebuying.py
+  360  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  361  ls
+  362  python Unsolved
+  363  cd Unsolved
+  364  ls
+  365  python Unsolved
+  366  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  367  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  368  git log git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  369  git l
+  370  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  371  cd
+  372  pwd
+  373  ls
+  374  ls UCB-VIRT-FIN-PT-12-2021-U-B
+  375  cd README.md
+  376  python README.md
+  377  clear 
+  378  ls
+  379  UCB-VIRT-FIN-PT-12-2021-U-B
+  380  cd UCB-VIRT-FIN-PT-12-2021-U-B
+  381  git pull
+  382  commit
+  383  clear
+  384  ls -al ~/ .ssh
+  385  ssh-keygen -t rsa -b 4096 -C "alexisg324@gmail.com"
+  386  /usr/local/bin/python3 /Users/lex/Downloads/01_A_Definitive_Buy/Solved/a_definitive_buy.py
+  387  /usr/local/bin/python3 /Users/lex/Downloads/02_Returned_Goods/Solved/returned_goods.py
+  388  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  389  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/M1L3.py
+  390  /usr/local/bin/python3 /Users/lex/Downloads/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+  391  /usr/local/bin/python3 /Users/lex/Downloads/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+  392  cd ~
+  393  ls
+  394  cd UCB-VIRT-FIN-PT-12-2021-U-B
+  395  ls
+  396  import pathlib
+  397  /usr/local/bin/python3 /Users/lex/Downloads/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+  398  /usr/local/bin/python3 /Users/lex/Downloads/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+  399  /usr/local/bin/python3 /Users/lex/Downloads/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+  400  /usr/local/bin/python3 /Users/lex/Downloads/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+  401  /usr/local/bin/python3 /Users/lex/Downloads/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+  402  /usr/local/bin/python3 /Users/lex/Downloads/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  403  /usr/local/bin/python3 /Users/lex/Downloads/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  404  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  405  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  406  /usr/local/bin/python3 /Users/lex/Downloads/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  407  import pathlib
+  408  conda activate dev
+  409  import pathlib
+  410  cd
+  411  pwd
+  412  cd ~
+  413  pwd
+  414  cd
+  415  ls
+  416  cd Fintech-Workspace
+  417  ls
+  418  cd M1L3.py
+  419  import pathlib
+  420  anaconda activae
+  421  activate conda
+  422  conda activate conda
+  423  from pathlib import Path
+  424  /usr/local/bin/python3 "/Users/lex/Downloads/03_Split_Second_Homebuying_Part_2 2/Solved/split_second_part_2.py"
+  425  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  426  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  427  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  428  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  429  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  430  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  431  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  432  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  433  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  434  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  435  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  436  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  437  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  438  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  439  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  440  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  441  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  442  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  443  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  444  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  445  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  446  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  447  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  448  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  449  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  450  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  451  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  452  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  453  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  454  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  455  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  456  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  457  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  458  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  459  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  460  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  461  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  462  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  463  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  464  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  465  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  466  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  467  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  468  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  469  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  470  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  471  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  472  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  473  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  474  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  475  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  476  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  477  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  478  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  479  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  480  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  481  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  482  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  483  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  484  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  485  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  486  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  487  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  488  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  489  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  490  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  491  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  492  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  493  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  494  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  495  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  496  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  497  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  498  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  499  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  500  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  501  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  502  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  503  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  504  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  505  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  506  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  507  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  508  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  509  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  510  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  511  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  512  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  513  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  514  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  515  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  516  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  517  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  518  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  519  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  520  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  521  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  522  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  523  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  524  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  525  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  526  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  527  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  528  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  529  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  530  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  531  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  532  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  533  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  534  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  535  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  536  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  537  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  538  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  539  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  540  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  541  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  542  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  543  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  544  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  545  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  546  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  547  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  548  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  549  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  550  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  551  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  552  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  553  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  554  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  555  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  556  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  557  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  558  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  559  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  560  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  561  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  562  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  563  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  564  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  565  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  566  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  567  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  568  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  569  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  570  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  571  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  572  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  573  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  574  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  575  /usr/local/bin/python3 /Users/lex/Downloads/Starter_Code/loan_analyzer.py
+  576  /usr/local/bin/python3 /Users/lex/Desktop/Github_Upload/loan_analyzer.py
+  577  /usr/local/bin/python3 /Users/lex/Desktop/Github_Upload/loan_analyzer.py
+  578  /usr/local/bin/python3 /Users/lex/Desktop/Github_Upload/app.py
+  579  csvpath = Path("inexpensive_loans.csv")\nwith open(csvpath, 'w', newline= '') as csvfile:\n    csvwriter = csv.writer(csvfile)\n    for row in data:\n        csvwriter.writerow(row.values())
+  580  jupyter lab
+  581  jupyter
+  582  jupyter lab
+  583  junyper lab
+  584  jupyter lab
+  585  conda activate dev
+  586  pip -v
+  587  pip freeze
+  588  pip install fire
+  589  jupyter lab
+  590  /usr/local/bin/python3
+  591  conda activate dev
+  592  pip install fire
+  593  pip -V
+  594  pip freeze
+  595  pip install fire
+  596  pip install questionary
+  597  jupyter lab
+  598  conda activate dev
+  599  conda isntall -c pyviz hvplot geoviews
+  600  conda install -c pyviz hvplot geoviews
+  601  conda list hvplot
+  602  conda list geoviews
+  603  jupyter lab
+  604  /usr/local/bin/python3 /Users/lex/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  605  /usr/local/bin/python3 /Users/lex/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/utils/filters/credit_score.py
+  606  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/cli.py
+  607  /usr/local/bin/python3 /Users/lex/Fintech-Workspace/M1L3.py/cli.py
+  608  pip install fire
+  609  import fire
+  610  python cli,py
+  611  python cli.py
+  612  pip install questionary
+  613  got config --list
+  614  git config --list
+  615  pwd
+  616  cde
+  617  cd
+  618  ls
+  619  Fintech-Workspace
+  620  cd Fintech-Workspace
+  621  ls
+  622  python app.py
+  623  /usr/local/bin/python3 "/Users/lex/Downloads/01_Loan_Qualifier_Financial_Calculations 2/Solved/app.py"
+  624  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  625  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  626  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  627  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  628  install fire
+  629  /usr/local/bin/python3
+  630  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  631  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  632  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  633  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  634  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  635  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  636  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  637  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  638  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  639  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  640  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  641  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  642  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  643  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  644  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  645  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  646  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  647  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  648  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  649  cd
+  650  ls
+  651  ls Fintech-Workspace
+  652  cd
+  653  ls
+  654  ls UCB-VIRT-FIN-PT-12-2021-U-B
+  655  import fire
+  656  run fire
+  657  python fire
+  658  pip install fire
+  659  pip install questionary 
+  660  Python
+  661  Python
+  662  Python
+  663  jupyter
+  664  jupyter lab
+  665  code .
+  666  code .
+  667  git push
+  668  git config --global user.name <your first and last nam
+  669  /usr/local/bin/python3 /Users/lex/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/local/bin/python3 -m pip install -U jupyter /var/folders/_9/d9sl46nd01ng7b49nrfhyqnh0000gn/T/tmp-21054i4hGzxGv1wbh.log
+  670  /usr/local/bin/python3 /Users/lex/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/local/bin/python3 -m pip install -U notebook /var/folders/_9/d9sl46nd01ng7b49nrfhyqnh0000gn/T/tmp-21054MQy7ABV9DwIE.log
+  671  git push
+  672  git config --global alexisg324 <Alexis Garcia>
+  673  git config --global alexisg324@gmail.com
+  674  got config --list
+  675  git config --list
+  676  git clone https://github.com/Alexisg324/Loan_Qualifier_Application.git
+  677  git status
+  678  git push
+  679  .git push 
+  680  git commit -m "Version 2"
+  681  git config --global user.name alexisg324
+  682  git config --global user.email alexisg324@gmail.com
+  683  git push
+  684  pwd
+  685  cd
+  686  ls
+  687  ls Fintech-Workspace
+  688  cd ..
+  689  ls
+  690  cd
+  691  ls
+  692  ls Loan_Qualifier_Application
+  693  ls Gitgub_Upload
+  694  ls Desktop
+  695  pwd
+  696  ls
+  697  ls Desktop
+  698  ls Github_Upload
+  699  ls Fintech-Workspace
+  700  cd ~
+  701  pwd
+  702  ls
+  703  ls Loan_Qualifier_Application
+  704  git clone https://github.com/Alexisg324/Loan_Qualifier_Application.git
+  705  git push 
+  706  jupyter lab
+  707  conda activate dev
+  708  conda list pandas
+  709  conda list jupyter lab
+  710  conda list jupyterlab
+  711  python -m ipykernel instal --suer --name dev --display-name "Python (dev)"
+  712    jupyter lab
+  713  conda deactivate
+  714  jupyter lab
+  715  jupyter lab 
+  716  pip install fire
+  717  pip install questionary 
+  718  jupyter lab
+  719  jupyter lab
+  720  import sys
+  721  python-dotenv
+  722  python dotenv
+  723  pip install python dotenv
+  724  pip install python-dotenv
+  725  from dotenv import load_dotenv
+  726  pip install json
+  727  pip install JSON
+  728  pip install numoy
+  729  pip install numpy
+  730  pip install dotenv
+  731  jupyter lab
+  732  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  733  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  734  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  735  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  736  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  737  /usr/local/bin/python3 "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  738  /opt/anaconda3/bin/python "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  739  /opt/anaconda3/bin/python "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  740  /opt/anaconda3/bin/python "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  741  /opt/anaconda3/bin/python "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py"
+  742  /opt/anaconda3/bin/python "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/qualifier/utils/fileio.py"
+  743  source /opt/anaconda3/bin/activate
+  744  conda activate base
+  745   /usr/bin/env /opt/anaconda3/bin/python /Users/lex/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 57807 -- "/Users/lex/Downloads/Starter_Code 7/loan_qualifier_app/app.py" 
+  746  git pull
+  747  pwd
+  748  cd
+  749  ls
+  750  Desktop
+  751  ls Desktop
+  752  ls Github_Upload
+  753  cd Github_Uplaod
+  754  git pull Github_Upload
+  755  pip install json
+  756  install Matplotlib
+  757  pip install matplotlib
+  758  import matplotlib
+  759  pip install json
+  760  pip3 install pandas
+  761  update pandas
+  762  python --version
+  763  pip --version
+  764  pip install pandas.json
+  765  import json
+  766  python import json
+  767  jupyter lab
+  768  git reset -- hard
+  769  pwd
+  770  ls
+  771  ls Desktop
+  772  ls Github_Upload
+  773  cd Github_Upload
+  774  Git git clone https://github.com/amit1rrr/projectA.
+  775  Git clone https://github.com/kyhuber/Crypto-ETF-New.git
+  776  cp /some/path/mc.py path/of/Crypto_ETF_New
+  777  cp /users/lex/Desktop/Github_Upload/mc.py path/of/Crypto_ETF_New
+  778  jupyter lab 
+  779  git config --global alexisg324@gmail.com
+  780  git config --global user.email alexisg324@gmail.com
+  781  pwd
+  782  ls
+  783  ls Desktop/
+  784  cd Github_Upload
+  785  ls Github_Upload
+  786  pwd
+  787  cd
+  788  ls
+  789  cd Desktop
+  790  ls
+  791  cd Github_Upload
+  792  ls
+  793  git clone https://github.com/Alexisg324/Loan_Qualifier_Application.git
+  794  cd Loan_Qualifier_Application/
+  795  ls
+  796  git status
+  797  git add
+  798  git add .
+  799  git push
+  800  history 50 > terminal_history.txt
+  801  history 50 > terminal_history.txt
+  802  conda activate dev
